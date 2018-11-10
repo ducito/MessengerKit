@@ -40,6 +40,7 @@
 		8536B2D072F724EC8D153241CE439EA7 /* MSGTravInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C47407DBB724CE833665FBEE3CC8C45 /* MSGTravInputView.swift */; };
 		85BDF90B37DB42E782D2285035AF6294 /* MSGOutgoingEmojiCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EBEB6F3B52A909B4DA9E71A3718A61E3 /* MSGOutgoingEmojiCollectionViewCell.xib */; };
 		891A1326767D68CBC9FF7D677EAC7798 /* MSGDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142BBCFCC7D877C87D117F2CF9E66AF9 /* MSGDelegate.swift */; };
+		898E466C2196AFA8000FF7E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467620EF3914A436E960B7943FA2259B /* Assets.xcassets */; };
 		8A54932D73628583833E76874128BA1D /* MSGTravOutgoingCollectionViewSectionHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 926CA83C75B34DD88300A73E680CD240 /* MSGTravOutgoingCollectionViewSectionHeader.xib */; };
 		8C45AFCB44C88B81053DE2C77170BF43 /* MSGIMessageStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECDDE609195064F14362D6BD89EAB1A /* MSGIMessageStyle.swift */; };
 		92968530B182103F3A90FA0EC6DCF373 /* MSGMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A352914519FACAC10CED4E5CFACE7046 /* MSGMessage.swift */; };
@@ -840,6 +841,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				898E466C2196AFA8000FF7E7 /* Assets.xcassets in Resources */,
 				D95F003C61F4431C76CCCEB724D15826 /* MessengerKit.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
